@@ -1,12 +1,7 @@
-//let i= prompt("imgrese un numero")
-//while(i <= 5) {
- //   console.log("hola");
-   // i++;
-//}
 let a = prompt("ingrese un numero")
 
 for (; a <= 50; a++) {
-    //Si la variable i es 5, no se interpreta la repetición
+    //quiero saltear los numeros del 17 al 39
  
    
     if(a >=17 && a <=39) {
